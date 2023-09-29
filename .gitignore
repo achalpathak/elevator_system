@@ -1,2 +1,2 @@
-elevator_portal/settings/local.py
 .env
+*.sqlite3
